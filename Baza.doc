@@ -1,0 +1,24 @@
+1.Local o`zgaruvchi qanday o`zgaruvchi?
+
+Faqat o`zgaruvchi e`lon qilingan funksiya ichida ishlovchi o`zgaruvchi
+Barcha funksiyalarda ishlovchi o`zgaruvchi
+Barcha Javoblar to`g`ri
+To`g`ri javob yo`q
+Faqat o`zgaruvchi e`lon qilingan funksiya ichida ishlovchi o`zgaruvchi
+
+2.int tipidagi o`zgaruvchi xotiradan qancha joy egallaydi?
+
+4 bayt
+8 bayt
+2 bayt
+1 bayt
+4 bayt
+
+3.Matematik amallarni ishlatish uchun qaysi kutubxonadan foydalaniladi?
+
+<iostream>
+<stdio.h>
+<cmath>
+<cstring>
+<cmath>
+
